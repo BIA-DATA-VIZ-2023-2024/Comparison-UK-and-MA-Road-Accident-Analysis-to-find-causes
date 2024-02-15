@@ -1,5 +1,3 @@
-
-
 # Comparison UK and MA Road Accident Analysis Project
 
 
