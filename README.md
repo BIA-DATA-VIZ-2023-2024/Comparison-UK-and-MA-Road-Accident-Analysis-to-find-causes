@@ -17,7 +17,7 @@ The primary goal of this project is to gain insights into the factors contributi
 - `README.md`: This file providing an overview of the project.
 
 ## Visualization
-- Click [here](link-to-your-tableau-dashboard) to view the interactive Tableau dashboard created for visualizing the analyzed data.
+- Click [here](https://public.tableau.com/app/profile/achraf.el.ouahabi/viz/ComparaisonentreUKvsMarocROADACCIDENT/RoadAccidentDashboard) to view the interactive Tableau dashboard created for visualizing the analyzed data.
 
 ## Scientific Paper
 - Click [here](https://docs.google.com/document/d/1K_056e_F2tBTiosegV0ljHeCfCw-lBolXinzKZfb87Y/edit?usp=sharing) to view the full scientific paper hosted on Google Docs.
