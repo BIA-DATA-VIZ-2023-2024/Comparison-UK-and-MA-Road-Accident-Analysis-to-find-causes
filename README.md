@@ -1,6 +1,7 @@
 
 
-# UK Road Accident Analysis Project
+# Comparison UK and MA Road Accident Analysis Project
+
 
 ## Introduction
 This project involves the analysis of the UK Road Accident dataset using Python, SQL, and Tableau. The dataset, provided by the UK government's Open Data website, contains information on traffic accidents including geographic locations, weather conditions, vehicle types, and the number of casualties involved.
