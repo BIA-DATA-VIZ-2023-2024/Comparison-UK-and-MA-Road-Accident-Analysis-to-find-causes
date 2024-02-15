@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This project involves the analysis of the UK Road Accident dataset using Python, SQL, and Tableau. The dataset, provided by the UK government's Open Data website, contains information on traffic accidents including geographic locations, weather conditions, vehicle types, and the number of casualties involved.
+This project involves the analysis of the UK and MA Road Accident dataset using Python, SQL, and Tableau. The dataset, provided by the UK government's Open Data website, contains information on traffic accidents including geographic locations, weather conditions, vehicle types, and the number of casualties involved. Additionally, for the analysis of road accidents in Morocco, data will be leveraged from the latest report by Narsa. This comprehensive dataset will enable a detailed examination of road accident patterns, contributing factors, and geographical distribution, facilitating evidence-based decision-making for road safety initiatives in both the UK and Morocco.
 
 ## Purpose
 The primary goal of this project is to gain insights into the factors contributing to road accidents in the UK and to identify areas where interventions may be necessary to improve road safety. The analysis follows the 6 phases of the Data Analysis process: Ask, Prepare, Process, Analyze, and Act (APPAA).
