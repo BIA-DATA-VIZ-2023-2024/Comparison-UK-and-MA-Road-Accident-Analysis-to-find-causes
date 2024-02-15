@@ -14,8 +14,6 @@ The primary goal of this project is to gain insights into the factors contributi
 
 ## File Structure
 - `data.csv`: Original dataset containing UK road accident data.
-- `cleaned_data.csv`: Cleaned dataset after data preparation.
-- `analysis.sql`: SQL queries used for data analysis.
 - `README.md`: This file providing an overview of the project.
 
 ## Visualization
@@ -25,7 +23,7 @@ The primary goal of this project is to gain insights into the factors contributi
 - Click [here](https://docs.google.com/document/d/1K_056e_F2tBTiosegV0ljHeCfCw-lBolXinzKZfb87Y/edit?usp=sharing) to view the full scientific paper hosted on Google Docs.
 
 ## Progress Notebook
-- The Data Visualization Progress Notebook is available [here](https://docs.google.com/document/d/1qwuTVLQLJ64HKg9eUOtHgy9eprB8FRY9DLeHRKh6ByQ/edit)
+- The Progress Notebook is available [here](https://docs.google.com/document/d/1qwuTVLQLJ64HKg9eUOtHgy9eprB8FRY9DLeHRKh6ByQ/edit)
 
 ## Presentation oral
 - Click [here](link-to-oral-presentation) to access the oral presentation .
