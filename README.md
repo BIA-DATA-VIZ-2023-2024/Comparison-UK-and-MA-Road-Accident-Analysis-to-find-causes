@@ -22,3 +22,6 @@ The primary goal of this project is to gain insights into the factors contributi
 ## Visualization
 - Click [here](link-to-your-tableau-dashboard) to view the interactive Tableau dashboard created for visualizing the analyzed data.
 
+## Scientific Paper
+Click [here](link-to-your-google-docs-article) to view the full scientific paper hosted on Google Docs.
+
