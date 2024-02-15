@@ -19,3 +19,6 @@ The primary goal of this project is to gain insights into the factors contributi
 - `analysis.sql`: SQL queries used for data analysis.
 - `README.md`: This file providing an overview of the project.
 
+## Visualization
+- Click [here](link-to-your-tableau-dashboard) to view the interactive Tableau dashboard created for visualizing the analyzed data.
+
