@@ -25,3 +25,6 @@ The primary goal of this project is to gain insights into the factors contributi
 ## Scientific Paper
 Click [here](https://docs.google.com/document/d/1K_056e_F2tBTiosegV0ljHeCfCw-lBolXinzKZfb87Y/edit?usp=sharing) to view the full scientific paper hosted on Google Docs.
 
+## Progress Notebook
+The Data Visualization Progress Notebook is available [here](https://docs.google.com/document/d/1qwuTVLQLJ64HKg9eUOtHgy9eprB8FRY9DLeHRKh6ByQ/edit)
+
