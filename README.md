@@ -1,3 +1,21 @@
 
-This project aims to analyze road accidents based on factors like weather, road surfaces, location, vehicle type, and casualties. I extracted, cleaned, analyzed the data, and built an interactive dashboard for easy visualization. The insights gained will aid in accident prevention and improving road safety.
+
+# UK Road Accident Analysis Project
+
+## Introduction
+This project involves the analysis of the UK Road Accident dataset using Python, SQL, and Tableau. The dataset, provided by the UK government's Open Data website, contains information on traffic accidents including geographic locations, weather conditions, vehicle types, and the number of casualties involved.
+
+## Purpose
+The primary goal of this project is to gain insights into the factors contributing to road accidents in the UK and to identify areas where interventions may be necessary to improve road safety. The analysis follows the 6 phases of the Data Analysis process: Ask, Prepare, Process, Analyze, and Act (APPAA).
+
+## Technologies Used
+- Python: Used for data cleaning and preparation using the Pandas library.
+- SQL: Utilized for data analysis and querying the dataset.
+- Tableau: Used for data visualization and creating dynamic dashboards.
+
+## File Structure
+- `data.csv`: Original dataset containing UK road accident data.
+- `cleaned_data.csv`: Cleaned dataset after data preparation.
+- `analysis.sql`: SQL queries used for data analysis.
+- `README.md`: This file providing an overview of the project.
 
