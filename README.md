@@ -28,7 +28,6 @@ Click [here](https://docs.google.com/document/d/1K_056e_F2tBTiosegV0ljHeCfCw-lBo
 ## Progress Notebook
 The Data Visualization Progress Notebook is available [here](https://docs.google.com/document/d/1qwuTVLQLJ64HKg9eUOtHgy9eprB8FRY9DLeHRKh6ByQ/edit)
 
-##  
-### Link to Presentation oral
+## Presentation oral
 Click [here](link-to-oral-presentation) to access the oral presentation .
 
