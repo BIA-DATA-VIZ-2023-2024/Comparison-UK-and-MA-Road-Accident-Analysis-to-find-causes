@@ -13,7 +13,7 @@ The primary goal of this project is to gain insights into the factors contributi
 - Tableau: Used for data visualization and creating dynamic dashboards.
 
 ## File Structure
-- `data.csv`: Original dataset containing UK road accident data.
+- `data.csv`: Original dataset containing UK and MA road accident data.
 - `README.md`: This file providing an overview of the project.
 
 ## Visualization
