@@ -20,7 +20,7 @@ The primary goal of this project is to gain insights into the factors contributi
 - Click [here](https://public.tableau.com/app/profile/achraf.el.ouahabi/viz/ComparaisonentreUKvsMarocROADACCIDENT/RoadAccidentDashboard) to view the interactive Tableau dashboard created for visualizing the analyzed data.
 
 ## Scientific Paper
-- Click [here](https://docs.google.com/document/d/1K_056e_F2tBTiosegV0ljHeCfCw-lBolXinzKZfb87Y/edit?usp=sharing) to view the full scientific paper hosted on Google Docs.
+- Click [here](https://fr.overleaf.com/read/qcpwdnvtjbwm#a5408c) to view the full scientific paper hosted on Online LaTeX Editor.
 
 ## Progress Notebook
 - The Progress Notebook is available [here](https://docs.google.com/document/d/1qwuTVLQLJ64HKg9eUOtHgy9eprB8FRY9DLeHRKh6ByQ/edit)
