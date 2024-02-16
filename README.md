@@ -26,5 +26,5 @@ The primary goal of this project is to gain insights into the factors contributi
 - The Progress Notebook is available [here](https://docs.google.com/document/d/1qwuTVLQLJ64HKg9eUOtHgy9eprB8FRY9DLeHRKh6ByQ/edit)
 
 ## Presentation oral
-- Click [here](link-to-oral-presentation) to access the oral presentation .
+- Click [here](https://www.awesomescreenshot.com/video/24999408?key=1601a6c61299e2117d0f6b826fa831a0) to access the oral presentation .
 
